@@ -1,4 +1,4 @@
-# Understanding the DOM (Document Object Model) 🧠⚡
+# 🧠 Understanding the DOM (Document Object Model) ⚡
 
 The **Document Object Model (DOM)** is the structured representation of your HTML page that JavaScript can interact with. It's the bridge between your static content (HTML/CSS) and dynamic behavior (JavaScript).
 
